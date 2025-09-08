@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Machine Learning, Data Visualization, and Python for AI**
 - 📊 I work with **Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn**
 - 🧠 Interests: **Predictive Modeling, Data Cleaning, and AI Applications**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link)  
-
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/srivastavavishwas/)
 ---
 
 ### 🛠️ Tech Stack
