@@ -50,20 +50,6 @@
 - Deployed real-time interface using Streamlit  
 
 ---
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-
 ---
 
 ## 🏆 Professional Profiles
