@@ -18,5 +18,9 @@
 ---
 
 ### 📈 GitHub Stats
+## 📊 GitHub Stats
 ![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=tokyonight)
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=tokyonight)
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=tokyo-night)
