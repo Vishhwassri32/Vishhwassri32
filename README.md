@@ -15,8 +15,18 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
----
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
-### 📈 GitHub Stats
-![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=tokyonight)
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishhwassri32&theme=github-dark&hide_border=true"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=github-compact&hide_border=true"/>
+</p>
