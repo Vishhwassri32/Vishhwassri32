@@ -14,13 +14,11 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+## 📊 GitHub Analytics
 
----
-
-### 📈 GitHub Stats
-## 📊 GitHub Stats
-![Vishwas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=tokyonight)
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=tokyo-night)
