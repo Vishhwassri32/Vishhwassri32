@@ -5,6 +5,17 @@
   Passionate about Machine Learning, Data Analytics & AI-driven solutions 🚀
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vishhwassri32&theme=radical&column=4&margin-w=15&margin-h=15" alt="Vishhwassri32 Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=radical&count_private=true" alt="Vishhwassri32's GitHub stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=radical" alt="Top Langs" height="160px"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -25,9 +36,9 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Matplotlib-004B87?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -50,30 +61,23 @@
 - Deployed real-time interface using Streamlit  
 
 ---
----
 
 ## 🏆 Professional Profiles
 
 <p align="center">
-  <a href="https://github.com/Vishhwassri32">
+  <a href="https://github.com/Vishhwassri32" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://www.kaggle.com/vishwassrivastava1">
+  <a href="https://www.kaggle.com/vishwassrivastava1" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Datasets%20%26%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/vishwas-srivastava-737441292">
+  <a href="https://www.linkedin.com/in/vishwas-srivastava-737441292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1AzQ9LrJ6PZIf4-ZC-tLkfyYraHunb4uH/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1AzQ9LrJ6PZIf4-ZC-tLkfyYraHunb4uH/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  🚀 Always Learning | Always Building | Always Improving
 </p>
