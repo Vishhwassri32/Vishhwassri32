@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=radical&count_private=true" alt="Vishhwassri32's GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=radical" alt="Top Langs" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=radical&count_private=true" alt="Vishhwassri32's GitHub stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishhwassri32&theme=radical" alt="GitHub Streak" height="165px"/>
 </p>
 
 ---
