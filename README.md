@@ -5,17 +5,6 @@
   Passionate about Machine Learning, Data Analytics & AI-driven solutions 🚀
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vishhwassri32&theme=radical&column=4&margin-w=15&margin-h=15" alt="Vishhwassri32 Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=radical&count_private=true" alt="Vishhwassri32's GitHub stats" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishhwassri32&theme=radical" alt="GitHub Streak" height="165px"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
