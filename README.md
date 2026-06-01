@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas Srivastava</h1>
-<h3 align="center">B.Tech CSE (Data Science) | Aspiring Data Scientist</h3>
+<h3 align="center">B.Tech CSE (Data Science) | Aspiring Data Analyst</h3>
 
 <p align="center">
   Passionate about Machine Learning, Data Analytics & AI-driven solutions 🚀
