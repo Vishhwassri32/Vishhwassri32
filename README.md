@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Data Science) | 3rd Year
+- 🎓 B.Tech CSE (Data Science) |     Final Year
 - 🌱 Currently learning **Machine Learning, Model Optimization & AI Systems**
 - 📊 Skilled in **Python, SQL, Data Analysis & Visualization**
 - 🧠 Interested in **Predictive Modeling, Feature Engineering & Scalable ML Systems**
