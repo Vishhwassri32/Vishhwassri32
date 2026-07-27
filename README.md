@@ -8,12 +8,6 @@ Data Science Undergraduate • Machine Learning Enthusiast • Aspiring AI Engin
 Building Machine Learning projects, solving real-world problems with data, and continuously learning AI technologies. 🚀
 </p>
 
-<p align="center">
-  <a href="https://github.com/Vishhwassri32">
-    <img src="https://komarev.com/ghpvc/?username=Vishhwassri32&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
