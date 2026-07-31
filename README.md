@@ -87,12 +87,24 @@
 
 ---
 
-## 📈 GitHub Analytics
+#### 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishhwassri32&theme=github-dark&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Vishhwassri32&theme=github-dark&hide_border=true"/>
 
-<img src="https
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+[![Vishwas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=github-dark)](https://github.com/Vishhwassri32)
+
+</p>
