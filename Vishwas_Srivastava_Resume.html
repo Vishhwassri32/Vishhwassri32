@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vishwas Srivastava - Data Analyst Resume</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      color: #2c3e50;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 40px;
+      text-align: center;
+      position: relative;
+    }
+
+    .header h1 {
+      font-size: 42px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      letter-spacing: -0.5px;
+    }
+
+    .header .contact-info {
+      font-size: 13px;
+      opacity: 0.95;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-top: 15px;
+    }
+
+    .contact-info span {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .contact-info a {
+      color: white;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: opacity 0.3s;
+    }
+
+    .contact-info a:hover {
+      opacity: 0.8;
+      text-decoration: underline;
+    }
+
+    .content {
+      padding: 40px;
+      display: grid;
+      grid-template-columns: 1fr 1.2fr;
+      gap: 30px;
+    }
+
+    .sidebar {
+      border-right: 2px solid #667eea;
+      padding-right: 30px;
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #667eea;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 15px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #667eea;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .section-title i {
+      font-size: 18px;
+    }
+
+    .skill-item {
+      margin-bottom: 12px;
+    }
+
+    .skill-label {
+      font-weight: 600;
+      color: #2c3e50;
+      font-size: 13px;
+      margin-bottom: 5px;
+    }
+
+    .skill-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .skill-tag {
+      background: linear-gradient(135deg, #667eea15, #764ba215);
+      color: #667eea;
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      border: 1px solid #667eea30;
+    }
+
+    .main-content .section {
+      margin-bottom: 28px;
+    }
+
+    .summary {
+      background: linear-gradient(135deg, #667eea10, #764ba210);
+      padding: 20px;
+      border-radius: 8px;
+      border-left: 4px solid #667eea;
+      font-size: 14px;
+      line-height: 1.8;
+      color: #34495e;
+    }
+
+    .experience-item,
+    .project-item {
+      margin-bottom: 22px;
+    }
+
+    .item-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 8px;
+    }
+
+    .item-title {
+      font-weight: 700;
+      font-size: 14px;
+      color: #2c3e50;
+    }
+
+    .item-company {
+      font-size: 13px;
+      color: #667eea;
+      font-weight: 600;
+    }
+
+    .item-date {
+      font-size: 12px;
+      color: #7f8c8d;
+      font-weight: 500;
+    }
+
+    .item-description {
+      font-size: 13px;
+      color: #34495e;
+      line-height: 1.6;
+      margin-top: 8px;
+    }
+
+    .bullet-list {
+      list-style: none;
+      margin: 10px 0 0 0;
+    }
+
+    .bullet-list li {
+      font-size: 13px;
+      color: #34495e;
+      margin-bottom: 8px;
+      padding-left: 20px;
+      position: relative;
+      line-height: 1.5;
+    }
+
+    .bullet-list li:before {
+      content: "▪";
+      color: #667eea;
+      font-weight: bold;
+      position: absolute;
+      left: 0;
+    }
+
+    .tech-stack {
+      font-size: 12px;
+      color: #764ba2;
+      font-weight: 600;
+      margin-bottom: 12px;
+      display: flex;
+      gap: 15px;
+      flex-wrap: wrap;
+    }
+
+    .project-links {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .project-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      background: linear-gradient(135deg, #667eea20, #764ba220);
+      border: 1px solid #667eea40;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #667eea;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+
+    .project-link:hover {
+      background: linear-gradient(135deg, #667eea30, #764ba230);
+      border-color: #667eea80;
+      transform: translateY(-2px);
+    }
+
+    .project-link i {
+      font-size: 13px;
+    }
+
+    .cert-item {
+      font-size: 13px;
+      color: #34495e;
+      margin-bottom: 10px;
+      padding-left: 20px;
+      position: relative;
+    }
+
+    .cert-item:before {
+      content: "✓";
+      color: #667eea;
+      font-weight: bold;
+      position: absolute;
+      left: 0;
+    }
+
+    .education-item {
+      margin-bottom: 15px;
+    }
+
+    .degree {
+      font-weight: 700;
+      font-size: 13px;
+      color: #2c3e50;
+      margin-bottom: 4px;
+    }
+
+    .university {
+      font-size: 12px;
+      color: #667eea;
+      font-weight: 600;
+    }
+
+    .year {
+      font-size: 12px;
+      color: #7f8c8d;
+      margin-top: 3px;
+    }
+
+    @media (max-width: 768px) {
+      .content {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        border-right: none;
+        border-bottom: 2px solid #667eea;
+        padding-right: 0;
+        padding-bottom: 30px;
+      }
+
+      .header h1 {
+        font-size: 28px;
+      }
+
+      .header .contact-info {
+        gap: 10px;
+      }
+
+      .contact-info span {
+        font-size: 11px;
+      }
+    }
+
+    @media print {
+      body {
+        background: white;
+        padding: 0;
+      }
+
+      .container {
+        box-shadow: none;
+        border-radius: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>VISHWAS SRIVASTAVA</h1>
+      <div class="contact-info">
+        <span><i class="fas fa-map-marker-alt"></i> Lucknow, India</span>
+        <span><i class="fas fa-phone"></i> +91-7755039116</span>
+        <span><i class="fas fa-envelope"></i> srivastavavishwas60@gmail.com</span>
+        <a href="https://www.linkedin.com/in/vishwas-srivastava/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="https://github.com/Vishhwassri32" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+        <a href="https://www.kaggle.com/vishhwassri32" target="_blank"><i class="fab fa-kaggle"></i> Kaggle</a>
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="sidebar">
+        <div class="section">
+          <div class="section-title">
+            <i class="fas fa-code"></i> Technical Skills
+          </div>
+          
+          <div class="skill-item">
+            <div class="skill-label">Programming</div>
+            <div class="skill-tags">
+              <span class="skill-tag">Python</span>
+              <span class="skill-tag">SQL</span>
+              <span class="skill-tag">R</span>
+            </div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-label">Data Analysis</div>
+            <div class="skill-tags">
+              <span class="skill-tag">Pandas</span>
+              <span class="skill-tag">NumPy</span>
+              <span class="skill-tag">EDA</span>
+              <span class="skill-tag">Feature Engineering</span>
+            </div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-label">Visualization & BI</div>
+            <div class="skill-tags">
+              <span class="skill-tag">Tableau</span>
+              <span class="skill-tag">Power BI</span>
+              <span class="skill-tag">Matplotlib</span>
+              <span class="skill-tag">Seaborn</span>
+              <span class="skill-tag">Streamlit</span>
+            </div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-label">Tools & Platforms</div>
+            <div class="skill-tags">
+              <span class="skill-tag">Git</span>
+              <span class="skill-tag">Jupyter</span>
+              <span class="skill-tag">Google Colab</span>
+              <span class="skill-tag">Vercel</span>
+              <span class="skill-tag">Excel</span>
+            </div>
+          </div>
+
+          <div class="skill-item">
+            <div class="skill-label">Machine Learning</div>
+            <div class="skill-tags">
+              <span class="skill-tag">Scikit-learn</span>
+              <span class="skill-tag">Regression</span>
+              <span class="skill-tag">Classification</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="section-title">
+            <i class="fas fa-graduation-cap"></i> Education
+          </div>
+          
+          <div class="education-item">
+            <div class="degree">B.Tech - CS & Engineering</div>
+            <div class="university">(Data Science)</div>
+            <div class="university">Babu Banarasi Das Institute</div>
+            <div class="year">2023 - 2027 | Final Year</div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="section-title">
+            <i class="fas fa-certificate"></i> Certifications
+          </div>
+          
+          <div class="cert-item">Discover Data Analysis - Microsoft</div>
+          <div class="cert-item">Get Started with Power BI - Microsoft</div>
+          <div class="cert-item">Cloud Computing & JavaScript - Infosys</div>
+          <div class="cert-item">Hacktoberfest 2024 - 4th Position</div>
+        </div>
+      </div>
+
+      <div class="main-content">
+        <div class="section">
+          <div class="section-title">
+            <i class="fas fa-align-left"></i> Professional Summary
+          </div>
+          
+          <div class="summary">
+            B.Tech Computer Science & Engineering (Data Science) student with hands-on experience in Python, SQL, R, data analysis, and dashboard development. Experienced in cleaning real-world datasets, analyzing KPIs, building visualizations, and deploying data-driven applications through projects, training, and an ongoing Junior Data Analyst internship.
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="section-title">
+            <i class="fas fa-briefcase"></i> Experience
+          </div>
+
+          <div class="experience-item">
+            <div class="item-header">
+              <div>
+                <div class="item-title">Junior Data Analyst</div>
+                <div class="item-company">Agribusiness Virtual Internship, YuvaIntern</div>
+              </div>
+              <div class="item-date">Aug 2026 - Sep 2026</div>
+            </div>
+            <ul class="bullet-list">
+              <li>Analyze agricultural and agribusiness datasets using R to identify trends and useful patterns</li>
+              <li>Work with real-world business data to extract insights and support data-driven recommendations</li>
+              <li>Apply data analysis techniques to interpret findings and communicate results clearly</li>
+            </ul>
+          </div>
+
+          <div class="experience-item">
+            <div class="item-header">
+              <div>
+                <div class="item-title">Data Science & AI Trainee</div>
+                <div class="item-company">GRASTech | 90-Hour Project-Based Summer Training</div>
+              </div>
+            </div>
+            <ul class="bullet-list">
+              <li>Completed comprehensive training in Data Science and AI fundamentals with practical projects</li>
+              <li>Worked on data preprocessing, analysis, visualization, and machine learning implementations</li>
+              <li>Built and deployed machine learning applications from concept to production</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="section-title">
+            <i class="fas fa-folder"></i> Featured Projects
+          </div>
+
+          <div class="project-item">
+            <div class="item-header">
+              <div class="item-title">E-Commerce Sales Analytics Dashboard</div>
+              <div class="item-date">Interactive Analytics Platform</div>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/Vishhwassri32/ecommerce_-analysis" target="_blank" class="project-link">
+                <i class="fab fa-github"></i> Repository
+              </a>
+              <a href="https://ecommdash.streamlit.app" target="_blank" class="project-link">
+                <i class="fas fa-link"></i> Live Demo
+              </a>
+            </div>
+            <div class="tech-stack">
+              <span>Python</span>
+              <span>Pandas</span>
+              <span>Streamlit</span>
+              <span>Data Visualization</span>
+            </div>
+            <ul class="bullet-list">
+              <li>Cleaned and analyzed comprehensive e-commerce data covering orders, customers, products, and countries</li>
+              <li>Calculated key metrics: revenue, Average Order Value, and monthly sales trends for business reporting</li>
+              <li>Built and deployed interactive Streamlit dashboard for exploring sales and customer patterns</li>
+            </ul>
+          </div>
+
+          <div class="project-item">
+            <div class="item-header">
+              <div class="item-title">Hotel Business Intelligence Dashboard</div>
+              <div class="item-date">BI & Analytics Solution</div>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/Vishhwassri32/Hotel-Analysis-Dashboard" target="_blank" class="project-link">
+                <i class="fab fa-github"></i> Repository
+              </a>
+              <a href="https://vishhwassri32-hotel-analysis-dashboard-app-cfbqp8.streamlit.app/" target="_blank" class="project-link">
+                <i class="fas fa-link"></i> Live Demo
+              </a>
+            </div>
+            <div class="tech-stack">
+              <span>Python</span>
+              <span>SQL</span>
+              <span>Tableau</span>
+            </div>
+            <ul class="bullet-list">
+              <li>Cleaned and prepared hotel booking data using Python for SQL-based analysis</li>
+              <li>Performed SQL queries to analyze booking trends, cancellations, and revenue across segments</li>
+              <li>Built comprehensive Tableau dashboard for KPI tracking and business insights</li>
+            </ul>
+          </div>
+
+          <div class="project-item">
+            <div class="item-header">
+              <div class="item-title">WPL Performance Analytics System</div>
+              <div class="item-date">Sports Data Analytics</div>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/Vishhwassri32/WPL-Performance-Analytics-System" target="_blank" class="project-link">
+                <i class="fab fa-github"></i> Repository
+              </a>
+            </div>
+            <div class="tech-stack">
+              <span>SQL</span>
+              <span>Python</span>
+              <span>Pandas</span>
+              <span>Matplotlib</span>
+              <span>Seaborn</span>
+            </div>
+            <ul class="bullet-list">
+              <li>Collected and organized Women's Premier League data on player, team, and match performance</li>
+              <li>Performed exploratory data analysis to study player consistency and venue-wise trends</li>
+              <li>Visualized comprehensive performance metrics using Matplotlib and Seaborn</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
