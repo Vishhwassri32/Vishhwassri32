@@ -183,19 +183,68 @@ Machine learning project for predicting property prices using
 </a>
 </p>
 
-#### 📈 GitHub Analytics
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Vishhwassri32&theme=github-dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Vishhwassri32&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Vishhwassri32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    width="95%"
+  />
+</p>
+
+---
+
+<h3 align="center">👀 Profile Visitors</h3>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Vishhwassri32&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <strong>💡 Building • Learning • Analyzing • Improving 🚀</strong>
+</p>
 
 ## 📊 Contribution Graph
 
