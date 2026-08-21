@@ -53,39 +53,135 @@
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================= PROJECTS ================= -->
 
-### 🏥 AI Medical Chatbot
-- RAG Architecture
-- Pinecone Vector Database
-- Google Gemini API
-- Streamlit Deployment
+<h2 align="center">🚀 Featured Projects</h2>
 
----
+<table>
+<tr>
 
-### 🚆 Railway Delay Prediction System
-- Machine Learning
-- Regression Models
-- Data Cleaning
-- Model Evaluation
+<td width="50%" valign="top">
 
----
+<h3>📊 Indian Railway Delay Analysis</h3>
 
-### 📊 WPL Performance Analytics System
-- Exploratory Data Analysis
-- Feature Engineering
-- Power BI Dashboard
-- Data Visualization
+<p>
+Interactive data analysis of Indian Railway delays using
+<strong>Python, Pandas, Seaborn and data visualization</strong>.
+</p>
 
----
+<p>
+<a href="https://github.com/Vishhwassri32/indian-railway-delay-analysis">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
 
-### 📚 AI Book Recommendation System
-- Recommendation Engine
-- Cosine Similarity
-- Streamlit
-- Collaborative Filtering
+</td>
 
----
+<td width="50%" valign="top">
+
+<h3>🏏 WPL Performance Analytics</h3>
+
+<p>
+End-to-end sports analytics project analyzing player and team
+performance using <strong>Python, SQL and visualization</strong>.
+</p>
+
+<p>
+<a href="https://github.com/Vishhwassri32/WPL-Performance-Analytics-System">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛒 E-Commerce Analysis</h3>
+
+<p>
+Exploratory analysis of e-commerce data to identify
+<strong>sales trends, customer behavior and business insights</strong>.
+</p>
+
+<p>
+<a href="https://github.com/Vishhwassri32/ecommerce_-analysis">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📚 BookWise AI</h3>
+
+<p>
+Machine-learning based <strong>book recommendation system</strong>
+using content-based filtering and similarity techniques.
+</p>
+
+<p>
+<a href="https://github.com/Vishhwassri32/-BookWise-AI-Book-Recommendation-System">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎓 AI Student Predictor</h3>
+
+<p>
+Machine learning project focused on predicting student outcomes
+using <strong>data preprocessing, feature engineering and ML models</strong>.
+</p>
+
+<p>
+<a href="https://github.com/Vishhwassri32/ai-student-predictor">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏠 Property Price Predictor</h3>
+
+<p>
+Machine learning project for predicting property prices using
+<strong>regression techniques and data preprocessing</strong>.
+</p>
+
+<p>
+<a href="https://github.com/Vishhwassri32/property_price_predictor">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">📌 More Projects</h3>
+
+<p align="center">
+<a href="https://github.com/Vishhwassri32?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 #### 📈 GitHub Analytics
 
