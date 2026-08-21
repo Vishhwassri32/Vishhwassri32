@@ -177,18 +177,7 @@ Machine learning project for predicting property prices using
 
 <h3 align="center">📌 More Projects</h3>
 
-<p align="center">
-<a href="https://github.com/Vishhwassri32?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img 
+< <img 
     src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
   />
@@ -200,32 +189,73 @@ Machine learning project for predicting property prices using
 
 ---
 
-<h3 align="center">🔥 Contribution Streak</h3>
+<!-- ================= ACTIVE GITHUB ================= -->
+
+<h2 align="center">⚡ My GitHub Activity</h2>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Vishhwassri32&theme=tokyonight&hide_border=true"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Data+Projects+%F0%9F%93%8A;Learning+Machine+Learning+%F0%9F%A4%96;Solving+DSA+Problems+%F0%9F%A7%A9;Exploring+AI+%26+Generative+AI+%F0%9F%A7%A0;Always+Learning+%26+Building+%F0%9F%9A%80"
+    alt="Typing animation"
   />
 </p>
 
 ---
 
-<h3 align="center">📈 Contribution Graph</h3>
+<h3 align="center">📊 Coding Statistics</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=tokyo-night&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Vishhwassri32&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishhwassri32&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Vishhwassri32&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    width="70%"
+  />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Vishhwassri32/Vishhwassri32/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="90%"
+  />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
     width="95%"
   />
 </p>
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Vishhwassri32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Vishhwassri32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
     width="95%"
   />
 </p>
@@ -235,21 +265,13 @@ Machine learning project for predicting property prices using
 <h3 align="center">👀 Profile Visitors</h3>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Vishhwassri32&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  <img
+    src="https://komarev.com/ghpvc/?username=Vishhwassri32&label=Profile%20Views&style=for-the-badge"
   />
 </p>
 
-<br>
+---
 
 <p align="center">
-  <strong>💡 Building • Learning • Analyzing • Improving 🚀</strong>
-</p>
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-[![Vishwas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishhwassri32&theme=github-dark)](https://github.com/Vishhwassri32)
-
+  <strong>🚀 Code • 📊 Analyze • 🤖 Build • 📚 Learn • 🔥 Repeat</strong>
 </p>
