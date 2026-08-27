@@ -162,16 +162,6 @@ for predicting property prices.
 <img src="https://skillicons.dev/icons?i=streamlit,flask,jupyter"/>
 </div>
 ---
-<h2 align="center">📊 3D Contribution Graph</h2>
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Vishwas's 3D GitHub Graph" width="95%"/>
-</p>
----
-<h3 align="center">🏆 GitHub Achievements</h3>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vishhwassri32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
-</p>
----
 <h2 align="center">📚 Currently Learning</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
